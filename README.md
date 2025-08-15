@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <h1>📚 EduWeb - An Education Website</h1>
-  <p>A clean, responsive, and modern educational website UI built with HTML, CSS, and JavaScript.</p>
+  <p>A clean, responsive, and modern educational website UI built with HTML, CSS.</p>
   <img src="Education%20Website/images/screenshot.PNG" alt="EduWeb Education Website Screenshot" width="100%"/>
 </div>
 
